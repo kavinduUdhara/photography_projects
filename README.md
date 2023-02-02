@@ -13,6 +13,8 @@ A showcase of my expertise in image editing, featuring a compilation of my edite
 > 
 
 ### cetifications
-Showcase of My Graphic Design Skills: A Collection of Certificates Designed for the Media Unit
+>Showcase of My Graphic Design Skills: A Collection of Certificates Designed for the Media Unit
+
+<img src="https://github.com/kavinduUdhara/photography_projects/blob/main/editing_field@media_unit/cetifications/cetificate001.jpg" width="500"/>
 
 ![cetificate001.jpg](https://github.com/kavinduUdhara/photography_projects/blob/main/editing_field@media_unit/cetifications/cetificate001.jpg)
